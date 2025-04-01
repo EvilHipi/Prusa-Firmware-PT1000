@@ -607,7 +607,7 @@
 #elif defined(E3D_PT100_EXTRUDER_NO_AMP)
 #define TEMP_SENSOR_0 148
 #else
-#define TEMP_SENSOR_0 5
+#define TEMP_SENSOR_0 1047
 #endif
 #if defined(E3D_PT100_BED_WITH_AMP)
 #define TEMP_SENSOR_BED 247
